@@ -1,0 +1,36 @@
+{
+    "misc": {
+        "version": "1.0.0",
+        "encrypted": false,
+        "userId": "1bk7dc0eq"
+    },
+    "main": {
+        "projects_folder": "C:/Users/mmgie/Desktop/carousel/eqftp",
+        "date_format": "d.m.Y",
+        "open_project_connection": true,
+        "debug": true
+    },
+    "connections": {
+        "settings": {
+            "1bk7dfnir": {
+                "id": "1bk7dfnir",
+                "name": "EquiIT",
+                "localpath": "C:/Users/mmgie/Desktop/carousel",
+                "remotepath": "/public_html/tt/",
+                "check_difference": true,
+                "autoupload": true,
+                "ignore_list": ""
+            }
+        },
+        "credentials": {
+            "1bk7dfnir": {
+                "protocol": "ftp",
+                "server": "ftp.equiit.webd.pl",
+                "port": "",
+                "login": "equiit@equiit.webd.pl",
+                "rsa": "",
+                "password": "7758396"
+            }
+        }
+    }
+}
